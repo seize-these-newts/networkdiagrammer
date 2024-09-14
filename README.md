@@ -3,7 +3,7 @@ Thanks to Mike Bostok for D3.
 Apologies for the sloppy code.
 
 This is just a quick back of the napkin tool to draw out a network diagram
-from and edge list copied any pasted from excel. The edge list
+from an edge list copied any pasted from excel. The edge list
 existing as two adjacent columns.
 
 Device names and port names must be delimited by a semicolon.

@@ -11,7 +11,7 @@ Device names and port names must be delimited by a semicolon.
 Probably a good idea to remove any whitespace prior to cutting
 and pasting in the data.
 
-As of now there should be NO whitespace after th last entry.
+As of now there should be NO whitespace after the last entry.
 
 Hopefully someone else can find this useful. This was created
 mostly out of the frustration of staring at a list of

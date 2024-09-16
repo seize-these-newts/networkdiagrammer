@@ -19,4 +19,5 @@ network connections and trying to get a feel for the topology.
 
 The nodes are dragable, hopefully everything else is self explanatory.
 
+![alt text](https://github.com/seize-these-newts/networkdiagrammer/screenshot.png?raw=true)
 -mw
